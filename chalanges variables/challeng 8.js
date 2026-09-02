@@ -23,10 +23,10 @@ switch(numero){
            case 5:
         console.log("vendredi");
         break;
-           case 4:
+           case 6:
         console.log("samedi");
         break;
-           case 4:
+           case 7:
         console.log("dimanche");
         break;
         default:
